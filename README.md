@@ -45,6 +45,8 @@ Debemos realizar un modelo de recomendación entrenado dando unas buenas métric
 ## Los Archivos .csv necsesarios se encuentran en el siguente link: 
 https://drive.google.com/drive/folders/16zZ5dXUrL9dzJojhp91ePInOQh9Ip7F9?usp=sharing
  (se recomienda descargar los archivos y colocarlos en la misma carpeta)
+ 
+ link del video en youtube: https://youtu.be/T9itrI9ujvg
 
 ## Estructura del proyecto
 | Nombre archivo | Contenido|
