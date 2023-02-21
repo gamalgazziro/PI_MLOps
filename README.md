@@ -21,7 +21,7 @@ Debemos realizar un modelo de recomendación entrenado dando unas buenas métric
 
 + Para montar la API se decidio utilizar fastapi disponibilizando el codigo del archivo y Deta (una nube personal) para hacer el deployment de la app sin necesidad de dockerizacion.
 
-['Deta Space']: https://deta.space/discovery/r/imdee19pww7a1qif
++['Deta Space']: https://deta.space/discovery/r/imdee19pww7a1qif
 
 **'REALIZAR UN EDA'**
 
