@@ -7,7 +7,7 @@
 ## **OBJETIVOS DEL PROYECTO:**
 
 + Contexto y rol:
-Debemos realizar un modelo de recomendación entrenado dando unas buenas métricas. El ciclo de vida de un proyecto de Machine Learning debe contemplar desde el tratamiento y recolección de los datos, hasta el entrenamiento y mantenimiento del modelo de ML según llegan nuevos datos. Nuestro objetivo tambien es desarrollar y practicar las habilidades necesarias para montar un proyecto de MLOps. 
+Realizar un modelo de recomendación entrenado dando unas buenas métricas. El ciclo de vida de un proyecto de Machine Learning debe contemplar desde el tratamiento y recolección de los datos, hasta el entrenamiento y mantenimiento del modelo de ML según llegan nuevos datos. Nuestro objetivo tambien es desarrollar y practicar las habilidades necesarias para montar un proyecto de MLOps. 
 
 **'REALIZAR UN PROCESO DE ETL'**
 
